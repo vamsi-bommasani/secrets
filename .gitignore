@@ -1,0 +1,9 @@
+# Terraform
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+
+# Mics
+.DS_Store
