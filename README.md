@@ -52,8 +52,6 @@
 | <a name="output_kms_key_id"></a> [kms\_key\_id](#output\_kms\_key\_id) | n/a |
 | <a name="output_secret_arn"></a> [secret\_arn](#output\_secret\_arn) | n/a |
 | <a name="output_secret_name"></a> [secret\_name](#output\_secret\_name) | n/a |
-| <a name="output_ssm_parameter_arns"></a> [ssm\_parameter\_arns](#output\_ssm\_parameter\_arns) | n/a |
-| <a name="output_ssm_parameter_names"></a> [ssm\_parameter\_names](#output\_ssm\_parameter\_names) | n/a |
 <!-- END_TF_DOCS -->
 
 <!-- Terratest Executions -->
