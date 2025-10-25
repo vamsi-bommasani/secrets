@@ -1,0 +1,17 @@
+{
+    "terraform": {
+        "version": "~> 1.9",
+        "fmt": true,
+        "validate": true
+    },
+    "tflint": {
+        "enable": true,
+        "version": "v0.50.2"
+    },
+    "tfsec": {
+        "enable": false
+    },
+    "trivy": {
+        "enable": false
+    }
+}
