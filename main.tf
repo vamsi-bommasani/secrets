@@ -86,7 +86,7 @@ module "secrets_manager" {
 
 module "ssm_parameters" {
   source      = "terraform-aws-modules/ssm-parameter/aws"
-  version     = "1.2.0"
+  version     = "2.0.0"
   for_each    = local.ssm_parameters
   name        = each.key
   type        = each.value.type
